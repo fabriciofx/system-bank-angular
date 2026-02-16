@@ -50,7 +50,7 @@
     "@angular/build": "^21.1.4",
     "@angular/cli": "^21.1.4",
     "@angular/compiler-cli": "^21.1.4",
-    "@biomejs/biome": "^2.3.15",
+    "@biomejs/biome": "^2.4.0",
     "@types/express": "^5.0.6",
     "@types/jasmine": "~6.0.0",
     "@types/jest": "^30.0.0",
